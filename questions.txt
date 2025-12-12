@@ -1,0 +1,29 @@
+What were the two main interests Paul Graham pursued before college, and how did he initially perform in one of them? 
+
+
+How did early computing environments (IBM 1401, punch cards) shape Graham’s understanding of programming limitations? 
+
+Why did microcomputers represent a major turning point in Graham’s programming journey? 
+
+What motivated Paul Graham to shift from philosophy to artificial intelligence during college? 
+
+
+Why did Graham consider the AI research approach of the 1980s to be fundamentally flawed?
+
+Explain why Lisp played a central role in Paul Graham’s intellectual and professional development. 
+
+How does Graham contrast “theory” and “systems” within computer science, and where does he position himself? 
+
+Why did Graham believe that systems software tends not to “last,” and how did this belief influence his career decisions? 
+
+What realization did Graham have about art that made it appealing compared to software engineering? 
+
+Discuss how Graham’s experience at art school challenged traditional assumptions about formal education.
+
+Why does Paul Graham argue that working on “unprestigious” problems can be a sign of good judgment? 
+
+How did the rise of the web fundamentally change the economics and accessibility of writing and publishing? 
+
+Analyze Graham’s claim that the desire to impress others is one of the greatest risks for ambitious people. 
+
+In what ways does Graham’s career demonstrate non-linear professional growth? Provide examples.
